@@ -378,7 +378,7 @@ A Telegram bot that watches GitHub projects for new releases and new builds, pic
 - Release dates are shown in IST.
 - Thumbnails are attached to uploaded files.
 
-### v1 — Jan 21, 2026 — Birth Day
+### v1 — Dec 21, 2025 — Birth Day
 - Checks GitHub every 30 minutes and posts new files to Telegram chats.
 - Per-chat activation and approval.
 

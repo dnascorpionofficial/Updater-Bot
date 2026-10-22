@@ -6,6 +6,11 @@ A Telegram bot that watches GitHub projects for new releases and new builds, pic
 
 ---
 
+### v107 — Oct 22, 2026
+- Fixed README links in posts going dead when a project moves its README. The bot now checks the saved link before posting, and if it is broken it finds the new README and updates it automatically.
+- Fixed the Refetch Readmes buttons erasing a saved README link when GitHub did not answer.
+- Partially removed auto fetch keyboxes
+
 ### v106 — Oct 9, 2026
 - The bot now reports whether it is actually working, not just whether it is online. A bot that freezes is noticed and restarted automatically.
 - Bring back AI Agents with updated infrastructure

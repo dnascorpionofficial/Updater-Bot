@@ -6,6 +6,11 @@ A Telegram bot that watches GitHub projects for new releases and new builds, pic
 
 ---
 
+### v108 — Nov 6, 2026
+- When GitHub says "slow down" , the bot now waits and retries instead of failing straight away.
+- Saving no longer makes the bot pause while it waits on GitHub.
+- Split tokens
+
 ### v107 — Oct 22, 2026
 - Fixed README links in posts going dead when a project moves its README. The bot now checks the saved link before posting, and if it is broken it finds the new README and updates it automatically.
 - Fixed the Refetch Readmes buttons erasing a saved README link when GitHub did not answer.

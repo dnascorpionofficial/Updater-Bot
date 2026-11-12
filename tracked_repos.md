@@ -1,6 +1,6 @@
 # Repos added in the bot
 
-Total repositories: **62**
+Total repositories: **63**
 
 | # | Repo | Release | CI | Type | Link |
 | --- | ------ | :-------: | :--: | ------ | ------ |
@@ -42,37 +42,38 @@ Total repositories: **62**
 | 36 | NeoZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/NeoZygisk) |
 | 37 | NexAlloy Revanced Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/NexAlloy/NexAlloy) |
 | 38 | NoMount | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/maxsteeel/nomount) |
-| 39 | Oh My Keymint | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/qwq233/OhMyKeymint) |
-| 40 | OnyxZygisk | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/OnyxZygisk/OnyxZygisk) |
-| 41 | PIB Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Xposed-Modules-Repo/it.eldavo.pib) |
-| 42 | Play Integrity Fix Inject | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/PlayIntegrityFix) |
-| 43 | Play Integrity Fork | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/osm0sis/PlayIntegrityFork) |
-| 44 | Re Malwack Adblocker | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/ZG089/Re-Malwack) |
-| 45 | Re TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/2B-4G10/TeleVIP) |
-| 46 | ReLSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/ThePedroo/ReLSPosed) |
-| 47 | ReZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/ReZygisk) |
-| 48 | SukiSU Ultra | ✅ | ✅ | APK | [Repo Link](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
-| 49 | SuSFS Module | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/sidex15/susfs4ksu-module) |
-| 50 | TEE Simulator | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/TEESimulator) |
-| 51 | TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/mustafa1dev/TeleVip-Lsposed) |
-| 52 | Treat Wheel | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
-| 53 | TrickyAddon | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
-| 54 | TrickyStore | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/5ec1cff/TrickyStore) |
-| 55 | TrickyStore OSS | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
-| 56 | VD Google | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
-| 57 | Vector LSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
-| 58 | WeaveMask | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
-| 59 | WebUI X | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
-| 60 | Whatsapp Enhancer Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
-| 61 | Zygisk Detach | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
-| 62 | ZygiskNext | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
+| 39 | NyaZygisk | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/HSSkyBoy/NyaZygisk) |
+| 40 | Oh My Keymint | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/qwq233/OhMyKeymint) |
+| 41 | OnyxZygisk | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/OnyxZygisk/OnyxZygisk) |
+| 42 | PIB Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Xposed-Modules-Repo/it.eldavo.pib) |
+| 43 | Play Integrity Fix Inject | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/PlayIntegrityFix) |
+| 44 | Play Integrity Fork | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/osm0sis/PlayIntegrityFork) |
+| 45 | Re Malwack Adblocker | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/ZG089/Re-Malwack) |
+| 46 | Re TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/2B-4G10/TeleVIP) |
+| 47 | ReLSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/ThePedroo/ReLSPosed) |
+| 48 | ReZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/ReZygisk) |
+| 49 | SukiSU Ultra | ✅ | ✅ | APK | [Repo Link](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
+| 50 | SuSFS Module | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/sidex15/susfs4ksu-module) |
+| 51 | TEE Simulator | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/TEESimulator) |
+| 52 | TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/mustafa1dev/TeleVip-Lsposed) |
+| 53 | Treat Wheel | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
+| 54 | TrickyAddon | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
+| 55 | TrickyStore | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/5ec1cff/TrickyStore) |
+| 56 | TrickyStore OSS | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
+| 57 | VD Google | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
+| 58 | Vector LSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
+| 59 | WeaveMask | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
+| 60 | WebUI X | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
+| 61 | Whatsapp Enhancer Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
+| 62 | Zygisk Detach | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
+| 63 | ZygiskNext | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
 
 ## Summary
 
-- Release added: **60** repos
+- Release added: **61** repos
 - CI added: **29** repos
 - Both Release + CI: **27** repos
-- Release only: **33** repos
+- Release only: **34** repos
 - CI only: **2** repos
 
 ## Legend

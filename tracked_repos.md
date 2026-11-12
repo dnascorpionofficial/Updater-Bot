@@ -42,7 +42,7 @@ Total repositories: **63**
 | 36 | NeoZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/NeoZygisk) |
 | 37 | NexAlloy Revanced Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/NexAlloy/NexAlloy) |
 | 38 | NoMount | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/maxsteeel/nomount) |
-| 39 | NyaZygisk | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/HSSkyBoy/NyaZygisk) |
+| 39 | NyaZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/HSSkyBoy/NyaZygisk) |
 | 40 | Oh My Keymint | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/qwq233/OhMyKeymint) |
 | 41 | OnyxZygisk | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/OnyxZygisk/OnyxZygisk) |
 | 42 | PIB Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Xposed-Modules-Repo/it.eldavo.pib) |
@@ -71,9 +71,9 @@ Total repositories: **63**
 ## Summary
 
 - Release added: **61** repos
-- CI added: **29** repos
-- Both Release + CI: **27** repos
-- Release only: **34** repos
+- CI added: **30** repos
+- Both Release + CI: **28** repos
+- Release only: **33** repos
 - CI only: **2** repos
 
 ## Legend

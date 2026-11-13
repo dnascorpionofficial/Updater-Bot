@@ -1,6 +1,6 @@
 # Repos added in the bot
 
-Total repositories: **63**
+Total repositories: **64**
 
 | # | Repo | Release | CI | Type | Link |
 | --- | ------ | :-------: | :--: | ------ | ------ |
@@ -60,20 +60,21 @@ Total repositories: **63**
 | 54 | TrickyAddon | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
 | 55 | TrickyStore | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/5ec1cff/TrickyStore) |
 | 56 | TrickyStore OSS | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
-| 57 | VD Google | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
-| 58 | Vector LSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
-| 59 | WeaveMask | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
-| 60 | WebUI X | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
-| 61 | Whatsapp Enhancer Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
-| 62 | Zygisk Detach | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
-| 63 | ZygiskNext | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
+| 57 | VD Dropbear | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-dropbear) |
+| 58 | VD Google | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
+| 59 | Vector LSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
+| 60 | WeaveMask | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
+| 61 | WebUI X | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
+| 62 | Whatsapp Enhancer Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
+| 63 | Zygisk Detach | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
+| 64 | ZygiskNext | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
 
 ## Summary
 
-- Release added: **61** repos
+- Release added: **62** repos
 - CI added: **30** repos
 - Both Release + CI: **28** repos
-- Release only: **33** repos
+- Release only: **34** repos
 - CI only: **2** repos
 
 ## Legend

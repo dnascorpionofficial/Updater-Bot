@@ -52,7 +52,7 @@ Total repositories: **64**
 | 46 | Re TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/2B-4G10/TeleVIP) |
 | 47 | ReLSPosed | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/ThePedroo/ReLSPosed) |
 | 48 | ReZygisk | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/ReZygisk) |
-| 49 | SukiSU Ultra | ✅ | ✅ | APK | [Repo Link](https://github.com/SukiSU-Ultra/SukiSU-Ultra) |
+| 49 | SukiSU Nova / Ultra | ✅ | ✅ | APK | [Repo Link](https://github.com/SukiSU-Nova/SukiSU-Nova) |
 | 50 | SuSFS Module | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/sidex15/susfs4ksu-module) |
 | 51 | TEE Simulator | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/TEESimulator) |
 | 52 | TeleVIP Xposed | ✅ | ❌ | APK | [Repo Link](https://github.com/mustafa1dev/TeleVip-Lsposed) |

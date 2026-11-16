@@ -7,6 +7,9 @@ A Telegram bot that watches GitHub projects for new releases and new builds, pic
 [Tracked Repos list](tracked_repos.md)
 ---
 
+### v111 — Nov 16, 2026
+- Fixed a build number in a version name (for example the `#652` in `v19(190001)-CI #652`) being turned into a link to a GitHub issue in the Telegraph page. The version line is now shown as plain text. `#` numbers inside commit messages still link as before.
+
 ### v110 — Nov 11, 2026
 - Fixed release notes showing a raw `<relative-time ...>` tag in the Telegraph page. The date is now shown as normal text, the same way GitHub shows it.
 

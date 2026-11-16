@@ -2,7 +2,7 @@
 
 Total repositories: **65**
 
-| # | Repo | Author /<br>Organization | Release | CI | Type | Link |
+| # | Repo | Author /<br>Organization | GitHub<br>Release | GitHub<br>Action (CI) | Type | Link |
 | --- | ------ | ------ | :-------: | :--: | ------ | ------ |
 | 1 | APatch | [bmax121](https://github.com/bmax121) | ✅ | ✅ | APK | [Repo Link](https://github.com/bmax121/APatch) |
 | 2 | Aster | [LyraVoid](https://github.com/LyraVoid) | ✅ | ✅ | APK | [Repo Link](https://github.com/LyraVoid/Aster) |
@@ -72,8 +72,8 @@ Total repositories: **65**
 
 ## Summary
 
-- Release added: **63** repos
-- CI added: **30** repos
+- GitHub Release added: **63** repos
+- GitHub Action (CI) added: **30** repos
 - Both Release + CI: **28** repos
 - Release only: **35** repos
 - CI only: **2** repos
@@ -82,6 +82,6 @@ Total repositories: **65**
 
 - ✅ = added in the bot
 - ❌ = not added for this repo
-- **Release** = tracks the GitHub Releases page
-- **CI** = tracks the GitHub Actions build workflow
+- **GitHub Release** = tracks the GitHub Releases page
+- **GitHub Action (CI)** = tracks the GitHub Actions build workflow
 - **Author / Organization** = the GitHub account that owns the repo (taken from the repo link)

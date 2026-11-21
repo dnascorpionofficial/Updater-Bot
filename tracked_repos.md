@@ -1,6 +1,6 @@
 # Repos added in the bot
 
-Total repositories: **65**
+Total repositories: **67**
 
 | # | Repo | Author /<br>Organization | GitHub<br>Release | GitHub<br>Action (CI) | Type | Link |
 | --- | ------ | ------ | :-------: | :--: | ------ | ------ |
@@ -63,19 +63,21 @@ Total repositories: **65**
 | 57 | TrickyStore OSS | [beakthoven](https://github.com/beakthoven) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
 | 58 | VD Dropbear | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-dropbear) |
 | 59 | VD Google | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
-| 60 | Vector LSPosed | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
-| 61 | WeaveMask | [Seyud](https://github.com/Seyud) | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
-| 62 | WebUI X | [MMRLApp](https://github.com/MMRLApp) | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
-| 63 | Whatsapp Enhancer Xposed | [Dev4Mod](https://github.com/Dev4Mod) | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
-| 64 | Zygisk Detach | [j‑hc](https://github.com/j-hc) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
-| 65 | ZygiskNext | [LSPosed](https://github.com/LSPosed) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
+| 60 | VD Infos | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Infos) |
+| 61 | VD Installer | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-Installer) |
+| 62 | Vector LSPosed | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
+| 63 | WeaveMask | [Seyud](https://github.com/Seyud) | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
+| 64 | WebUI X | [MMRLApp](https://github.com/MMRLApp) | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
+| 65 | Whatsapp Enhancer Xposed | [Dev4Mod](https://github.com/Dev4Mod) | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
+| 66 | Zygisk Detach | [j‑hc](https://github.com/j-hc) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
+| 67 | ZygiskNext | [LSPosed](https://github.com/LSPosed) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
 
 ## Summary
 
-- GitHub Release added: **63** repos
+- GitHub Release added: **65** repos
 - GitHub Action (CI) added: **30** repos
 - Both Release + CI: **28** repos
-- Release only: **35** repos
+- Release only: **37** repos
 - CI only: **2** repos
 
 ## Legend

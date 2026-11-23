@@ -7,6 +7,10 @@ A Telegram bot that watches GitHub projects for new releases and new builds, pic
 [Tracked Repos list](tracked_repos.md)
 ---
 
+### v113 — Nov 23, 2026
+- Posts now show who owns the project. A new line, `👤 Author/Org :`, shows the owner or organization name (for example `dnascorpionofficial`) just above the Bug report line.
+- Removed the empty line that used to sit between Changelogs and Bug report, so the post is a little tighter.
+
 ### v112 — Nov 21, 2026
 - Fixed CI run numbers like `CI #190` being turned into a link to a GitHub issue in the Telegraph page. Release notes are unchanged, so a real `#12` there still links.
 - For forked projects, issue and pull request numbers (like `#181`) in a commit that came from the original project now link to the original project, the same way GitHub shows them. Commits made in the fork itself still link to the fork.

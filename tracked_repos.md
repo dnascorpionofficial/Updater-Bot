@@ -1,6 +1,6 @@
 # Repos added in the bot
 
-Total repositories: **67**
+Total repositories: **68**
 
 | # | Repo | Author /<br>Organization | GitHub<br>Release | GitHub<br>Action (CI) | Type | Link |
 | --- | ------ | ------ | :-------: | :--: | ------ | ------ |
@@ -54,29 +54,30 @@ Total repositories: **67**
 | 48 | ReZygisk | [PerformanC](https://github.com/PerformanC) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/ReZygisk) |
 | 49 | SukiSU Nova / Ultra | [SukiSU‑Nova](https://github.com/SukiSU-Nova) | ✅ | ✅ | APK | [Repo Link](https://github.com/SukiSU-Nova/SukiSU-Nova) |
 | 50 | SuSFS Module | [sidex15](https://github.com/sidex15) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/sidex15/susfs4ksu-module) |
-| 51 | TEE Simulator | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/TEESimulator) |
-| 52 | TeleVIP Xposed | [mustafa1dev](https://github.com/mustafa1dev) | ✅ | ❌ | APK | [Repo Link](https://github.com/mustafa1dev/TeleVip-Lsposed) |
-| 53 | Treat Wheel | [PerformanC](https://github.com/PerformanC) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
-| 54 | TrickyAddon | [KOWX712](https://github.com/KOWX712) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
-| 55 | TrickyStore | [5ec1cff](https://github.com/5ec1cff) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/5ec1cff/TrickyStore) |
-| 56 | TrickyStore OSS | [beakthoven](https://github.com/beakthoven) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
-| 57 | VD Dropbear | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-dropbear) |
-| 58 | VD Google | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
-| 59 | VD Infos | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Infos) |
-| 60 | VD Installer | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-Installer) |
-| 61 | Vector LSPosed | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
-| 62 | WeaveMask | [Seyud](https://github.com/Seyud) | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
-| 63 | WebUI X | [MMRLApp](https://github.com/MMRLApp) | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
-| 64 | Whatsapp Enhancer Xposed | [Dev4Mod](https://github.com/Dev4Mod) | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
-| 65 | ZNNext | [VeryBaaad](https://github.com/VeryBaaad) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/VeryBaaad/ZNNext) |
-| 66 | Zygisk Detach | [j‑hc](https://github.com/j-hc) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
-| 67 | ZygiskNext | [LSPosed](https://github.com/LSPosed) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
+| 51 | susfs4ksu for lkm | [inforcqb](https://github.com/inforcqb) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/inforcqb/susfs4ksu-for-lkm) |
+| 52 | TEE Simulator | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/TEESimulator) |
+| 53 | TeleVIP Xposed | [mustafa1dev](https://github.com/mustafa1dev) | ✅ | ❌ | APK | [Repo Link](https://github.com/mustafa1dev/TeleVip-Lsposed) |
+| 54 | Treat Wheel | [PerformanC](https://github.com/PerformanC) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/PerformanC/Treat-Wheel-Zygisk) |
+| 55 | TrickyAddon | [KOWX712](https://github.com/KOWX712) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
+| 56 | TrickyStore | [5ec1cff](https://github.com/5ec1cff) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/5ec1cff/TrickyStore) |
+| 57 | TrickyStore OSS | [beakthoven](https://github.com/beakthoven) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/beakthoven/TrickyStoreOSS) |
+| 58 | VD Dropbear | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-dropbear) |
+| 59 | VD Google | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Google) |
+| 60 | VD Infos | [VD171](https://github.com/VD171) | ✅ | ❌ | APK | [Repo Link](https://github.com/VD171/VD-Infos) |
+| 61 | VD Installer | [VD171](https://github.com/VD171) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/VD171/VD-Installer) |
+| 62 | Vector LSPosed | [JingMatrix](https://github.com/JingMatrix) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/JingMatrix/Vector) |
+| 63 | WeaveMask | [Seyud](https://github.com/Seyud) | ✅ | ❌ | APK | [Repo Link](https://github.com/Seyud/WeaveMask) |
+| 64 | WebUI X | [MMRLApp](https://github.com/MMRLApp) | ✅ | ❌ | APK | [Repo Link](https://github.com/MMRLApp/WebUI-X-Portable) |
+| 65 | Whatsapp Enhancer Xposed | [Dev4Mod](https://github.com/Dev4Mod) | ✅ | ❌ | APK | [Repo Link](https://github.com/Dev4Mod/WaEnhancer) |
+| 66 | ZNNext | [VeryBaaad](https://github.com/VeryBaaad) | ✅ | ✅ | Module (ZIP) | [Repo Link](https://github.com/VeryBaaad/ZNNext) |
+| 67 | Zygisk Detach | [j‑hc](https://github.com/j-hc) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/j-hc/zygisk-detach) |
+| 68 | ZygiskNext | [LSPosed](https://github.com/LSPosed) | ✅ | ❌ | Module (ZIP) | [Repo Link](https://github.com/LSPosed/ZygiskNext) |
 
 ## Summary
 
-- GitHub Release added: **65** repos
-- GitHub Action (CI) added: **31** repos
-- Both Release + CI: **29** repos
+- GitHub Release added: **66** repos
+- GitHub Action (CI) added: **32** repos
+- Both Release + CI: **30** repos
 - Release only: **36** repos
 - CI only: **2** repos
 
